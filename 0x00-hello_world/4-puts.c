@@ -2,6 +2,7 @@
 /**
  * main - Using function puts to print a certain program
  * Amazing
+ * Return: 0 (great)
  */
 int main(void)
 {
